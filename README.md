@@ -1,7 +1,12 @@
 # My First Repository
 
-**Full Name:** Carl John Castillo  
-**Course & Section:** BSIT 2-A
+## Full Name
+
+Carl John Castillo
+
+## Course & Section
+
+BSIT 2-A
 
 ## Short Introduction
 
